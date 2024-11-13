@@ -7,7 +7,6 @@ This repository demonstrates an efficient way to search data from multiple datab
 - **B-tree indexing** for efficient searching.
 - **Multiple table support** for querying and combining data from different tables.
 - **Optimized performance** for large datasets, minimizing the time complexity of queries.
-- **Simple and easy-to-understand implementation** for educational purposes.
 
 ## ⚙️ How It Works
 
