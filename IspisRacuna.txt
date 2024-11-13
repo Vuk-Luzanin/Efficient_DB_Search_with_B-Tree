@@ -1,0 +1,4 @@
+4300000003|Amos|Labree|ALabree@hotmail.com|43000000022|4300000003|1|2.85974e+06
+4300000003|Amos|Labree|ALabree@hotmail.com|43000000024|4300000003|2|-7.00283e+06
+4300000003|Amos|Labree|ALabree@hotmail.com|43000000025|4300000003|1|4.99703e+06
+Broj koraka pretrage je: 2.
